@@ -1,1 +1,4 @@
 GitHub on veebipõhine platvorm, mis võimaldab hallata koodi ja projekte, kasutades versioonihaldust (Git). Seda kasutavad arendajad, disainerid ja ettevõtted, et teha koostööd tarkvaraarenduses.
+Tulevikus saan kasutada GitHubi oma programmeerimisprojektide talletamiseks ja koostööks teiste arendajatega.
+GitHub Inc asutati 2008. aastal Tom Prestoni-Werneri, Chris Wanstrathi, PJ Hyetti ja Scott Chaconi poolt. Teenus muutus avalikult kättesaadavaks samal aastal, 2008.
+
